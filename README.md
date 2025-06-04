@@ -10,11 +10,11 @@
 
 ## Files:
 
-### zabbix_onboard_main.py – main script file ,
-### zabbix_onboard_def.py – file with functions used by main script,
-### onboard.conf – script configuration file,
-### onboard_template.csv – template for read/write groups available for users assigned to account,
-### templates_ro.csv – template with read-only groups available for users assigned to account
+### ** zabbix_onboard_main.py ** – main script file ,
+### ** zabbix_onboard_def.py ** – file with functions used by main script,
+### ** onboard.conf ** – script configuration file,
+### ** onboard_template.csv ** – template for read/write groups available for users assigned to account,
+### ** templates_ro.csv ** – template with read-only groups available for users assigned to account
 
 ## Usage:
 ### 1.	In onboard.conf the following variables must be set:
