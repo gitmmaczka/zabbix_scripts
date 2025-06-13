@@ -29,3 +29,6 @@
  2.	Run main script for ex:
     python3.12 zabbix_onboard_main.py
 ### 3.	Check Zabbix GUI.
+
+
+### 4. Test entry.
